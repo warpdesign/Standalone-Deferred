@@ -67,7 +67,7 @@ Example
 		}
 	);
 
-Licence
+License
 -------
 
 This software is distributed under an MIT licence.
